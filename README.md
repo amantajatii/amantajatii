@@ -18,10 +18,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=amantajatii&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amantajatii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+<img align="left" src="https://nirzak-streak-stats.vercel.app/?user=amantajatii&theme=radical&hide_border=false" height="170 px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amantajatii&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170 px">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amantajatii&icon=0&color=0)](https://visitcount.itsvg.in)
