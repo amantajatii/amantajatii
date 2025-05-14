@@ -9,10 +9,9 @@
 ##
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/Diaz%20Amantajati%20Susilo-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diazamantajatisusilo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diazamantajatisusilo/)
 [![email](https://img.shields.io/badge/amantajati15@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:amantajati15@gmail.com) 
-[![Instagram](https://img.shields.io/badge/amantajatii-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amantajatii) 
-[![TikTok](https://img.shields.io/badge/amantajatii-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@amantajatii) 
+[![Instagram](https://img.shields.io/badge/amantajatii-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amantajatii)  
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
