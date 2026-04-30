@@ -8,6 +8,13 @@
 
 ##
 
+<h3 align="center">
+  🌐 Check out my portfolio: 
+  <a href="https://amantajati.vercel.app">amantajati.vercel.app</a>
+</h3>
+
+##
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diazamantajatisusilo/)
 [![email](https://img.shields.io/badge/amantajati15@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:amantajati15@gmail.com) 
