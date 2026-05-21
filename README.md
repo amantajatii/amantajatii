@@ -75,17 +75,21 @@ const diaz = {
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amantajatii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amantajatii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantajatii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true)](https://github.com/amantajatii)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantajatii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8)](https://github.com/amantajatii)
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amantajatii&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=FF6B6B&currStreakLabel=667eea&sideLabels=667eea" alt="GitHub Streak"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amantajatii&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FF6B6B&currStreakLabel=667eea&sideLabels=667eea&dates=8B949E)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amantajatii&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff" alt="Activity Graph"/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amantajatii&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff)](https://github.com/amantajatii)
+
 </div>
 
 ---
@@ -93,18 +97,14 @@ const diaz = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/amantajatii/nusaplan_frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amantajatii&repo=nusaplan_frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="nusaplan_frontend"/>
-  </a>
-  <a href="https://github.com/amantajatii/amantajatii-portofolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amantajatii&repo=amantajatii-portofolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="amantajatii-portofolio"/>
-  </a>
-  <a href="https://github.com/amantajatii/one-stroke-bet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amantajatii&repo=one-stroke-bet&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="one-stroke-bet"/>
-  </a>
-  <a href="https://github.com/amantajatii/recruitment_screening_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amantajatii&repo=recruitment_screening_app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="recruitment_screening_app"/>
-  </a>
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [**nusaplan_frontend**](https://github.com/amantajatii/nusaplan_frontend) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) | Frontend platform nusaplan |
+| [**amantajatii-portofolio**](https://github.com/amantajatii/amantajatii-portofolio) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Personal portfolio website |
+| [**one-stroke-bet**](https://github.com/amantajatii/one-stroke-bet) | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity) | Blockchain betting smart contract |
+| [**recruitment_screening_app**](https://github.com/amantajatii/recruitment_screening_app) | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | Mobile recruitment screening app |
+
 </div>
 
 ---
