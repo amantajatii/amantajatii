@@ -6,12 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Blockchain+%26+Solidity+Enthusiast+%E2%9B%93;UI%2FUX+Designer+%F0%9F%8E%A8;Always+building+something+new+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=amantajatii&style=flat-square&color=667eea&label=profile+views" alt="profile views" />
 
-<br/><br/>
+<br/>
 
 <!-- Social Links as clean icon buttons -->
 <a href="https://linkedin.com/in/diazamantajatisusilo" target="_blank">
