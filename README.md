@@ -94,21 +94,6 @@ const diaz = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| [**nusaplan_frontend**](https://github.com/amantajatii/nusaplan_frontend) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) | Frontend platform nusaplan |
-| [**amantajatii-portofolio**](https://github.com/amantajatii/amantajatii-portofolio) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Personal portfolio website |
-| [**one-stroke-bet**](https://github.com/amantajatii/one-stroke-bet) | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity) | Blockchain betting smart contract |
-| [**recruitment_screening_app**](https://github.com/amantajatii/recruitment_screening_app) | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | Mobile recruitment screening app |
-
-</div>
-
----
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&animation=fadeIn"/>
 </div>
