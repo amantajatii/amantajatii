@@ -6,26 +6,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Blockchain+%26+Solidity+Enthusiast+%E2%9B%93;UI%2FUX+Designer+%F0%9F%8E%A8;Always+building+something+new+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=amantajatii&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" alt="profile views" />
-</p>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=amantajatii&style=flat-square&color=667eea&label=profile+views" alt="profile views" />
 
-<p>
-  <a href="https://linkedin.com/in/diazamantajatisusilo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/amantajatii">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:amantajati15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://amantajati.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<br/><br/>
+
+<!-- Social Links as clean icon buttons -->
+<a href="https://linkedin.com/in/diazamantajatisusilo" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+</a>&nbsp;
+<a href="https://instagram.com/amantajatii" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" height="28" alt="Instagram" />
+</a>&nbsp;
+<a href="mailto:amantajati15@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Gmail" />
+</a>&nbsp;
+<a href="https://amantajati.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" height="28" alt="Portfolio" />
+</a>
 
 </div>
 
