@@ -2,16 +2,16 @@
 
 # Diaz Amantajati Susilo
 
-### Software Engineer · Web3 Builder · Product-minded Developer
+### Software Engineering · Data & Machine Learning
 
-Information Engineering @ Gadjah Mada University  
-Building web applications, blockchain products, and thoughtful digital experiences.
+Information Engineering student @ Universitas Gadjah Mada  
+Building web applications and exploring how data and machine learning fit into working software.
 
 <br />
 
 [Portfolio](https://amantajati.studio) ·
 [LinkedIn](https://linkedin.com/in/diazamantajatisusilo) ·
-[Instagram](https://instagram.com/amantajatii) ·
+[GitHub](https://github.com/amantajatii) ·
 [Email](mailto:amantajati15@gmail.com)
 
 </div>
@@ -20,60 +20,94 @@ Building web applications, blockchain products, and thoughtful digital experienc
 
 ## About
 
-I'm an Information Engineering student at Gadjah Mada University with an
-interest in full-stack engineering, blockchain, and product design.
+I'm an Information Engineering student at Universitas Gadjah Mada
+with experience building web applications, backend services, and
+blockchain projects.
 
-I enjoy turning ideas into working products — from interface design and
-frontend development to backend systems and smart contracts.
+I'm expanding into data processing and machine learning through
+hands-on projects, including production forecasting and computer vision.
+I enjoy connecting these pipelines to APIs and interfaces people can use.
 
-Currently exploring the intersection of software engineering, Web3, and
-product-driven development.
+Alongside my projects, I contribute to open source and co-founded
+Pict n Pick, a photobox service where I handle hardware and software
+integration, installation, and troubleshooting.
 
 ---
 
 ## Selected Work
 
-### PassChick
+### Replate — Food Rescue & Production Analytics
 
-On-chain skill-based arcade game built on Celo with wallet authentication,
-real-time gameplay, anti-bot identity verification, and on-chain settlement.
+A surplus-food marketplace with restaurant management, ordering,
+pickup verification, and an owner analytics dashboard.
 
-`Next.js` `TypeScript` `Express` `Solidity` `Celo` `Supabase`
+Extended from a team project with a Python pipeline that compares
+Random Forest sales forecasts against a weekday baseline using
+chronological evaluation, then serves production recommendations
+through the application.
 
-[View repository →](https://github.com/wngstnr-code/PassChick)  
-[Live product →](https://passchick.xyz)
+`Next.js` `TypeScript` `Express.js` `SQL Server` `Python` `scikit-learn`
 
-### Movo
+[Repository →](https://github.com/amantajatii/replate-web-app)
 
-Full-stack Web3 product spanning frontend, backend, and smart-contract
-development.
+### Celebry — Computer Vision Application
 
-`TypeScript` `Web3` `Smart Contracts`
+An entertainment-focused celebrity look-alike finder with a Next.js
+frontend and FastAPI inference backend.
 
-[View repository →](https://github.com/Lexirieru/Movo)
+Uses pretrained InsightFace/ArcFace models for face detection and
+embeddings, then ranks reference profiles by cosine similarity.
+Includes upload validation, consent handling, and frontend/backend tests.
+
+`Next.js` `TypeScript` `Python` `FastAPI` `InsightFace` `ONNX Runtime`
+
+[Repository →](https://github.com/amantajatii/celebry)
+
+### KeeperHub — Open Source Contribution
+
+Fixed workflow progress remaining at 0% across affected manual,
+webhook, and MCP dispatch paths.
+
+Added regression coverage and addressed maintainer feedback.
+The fix was merged into the upstream repository.
+
+`TypeScript` `Next.js` `Regression Testing`
+
+[Merged pull request →](https://github.com/KeeperHub/keeperhub/pull/2012)
+
+### PassChick — Blockchain Game
+
+Contributed smart contracts and backend functionality for a
+skill-based blockchain game, including signed interactions,
+backend-managed game state, and user verification.
+
+**1st Place — Monad Blitz Jogja Hackathon**  
+**Top 10 — Celo Proof of Ship**
+
+`TypeScript` `Express.js` `Solidity` `Foundry`
+
+[Repository →](https://github.com/wngstnr-code/PassChick)
 
 ---
 
 ## Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,solidity" />
-</p>
+**Languages**  
+TypeScript · JavaScript · Python · SQL · Solidity · C#
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,threejs" />
-</p>
+**Web & Backend**  
+React · Next.js · Tailwind CSS · Node.js · Express.js · FastAPI · REST APIs
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,linux" />
-</p>
+**Data & Machine Learning**  
+scikit-learn · Random Forest · InsightFace · ONNX Runtime
+
+**Databases & Tools**  
+PostgreSQL · SQL Server · MySQL · Redis · Prisma · Docker · Git · Linux
 
 ---
 
 <div align="center">
 
-### Let's build something worth using.
-
-[amantajati.studio](https://amantajati.studio)
+[Explore my projects at amantajati.studio →](https://amantajati.studio)
 
 </div>
